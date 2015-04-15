@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+  Created on : Apr 11, 2015, 3:58:29 PM
+  Author     : chuyuwang
+  */
+.container{
+  text-align: center; 
+}
+#signinButton{
+  position: relative;
+  top: 10px;
+}
+.button{
+  width:70px;
+  display: inline;
+
+}
+.hide{
+  display: none;
+}
+#buttons{
+  position: absolute;
+  top: 0px;
+  right: 15px;
+  width: 250px;
+}
+#glogout{
+  position: relative;
+  top: 7px;
+  left:2px;
+}
+#status
+{
+  margin-top: -28px;
+}
+
+#logo
+{
+  text-align: center;
+  margin-top: 150px;;
+}
+.inline{
+  display: inline;
+}
+form input[type=text]{
+  height:25px;
+  width: 40%;
+  border-radius: 10px;
+  font-size: 1em;
+}
+input:-webkit-input-placeholder {
+  font-size: 1em;
+  font-family: serif;
+}
+
+
+
+
